@@ -3,7 +3,7 @@ config['ssid'] = '<SSID>'
 config['key'] = '<WIFIPASSWORD>'
 config['sensor_name'] = 'esp8266_home'
 config['url'] = '<POST_URL>'
-config['authorization'] = 'AUTH_TOKEN'
+config['authorization'] = '<AUTH_TOKEN>'
 config['offset_temperature'] = -3
 
 from generic import kpn
